@@ -33,3 +33,7 @@ SlidingPuzzle is a very simple game using numbers. Size of puzzle is 4*4. By mov
 2. Game ending screenshot video
 
 [![link2](http://img.youtube.com/vi/wMOD9rQhAyQ/0.jpg)](https://www.youtube.com/embed//wMOD9rQhAyQ)
+
+## Developer API
+
+Doxygen is here. https://sg201324423.github.io/slidiingPuzzle/html/main_8c.html
